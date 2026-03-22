@@ -19,3 +19,11 @@ Session.vim
 opencode.json
 a.out
 target
+
+# Private keys and certificates
+*.pem
+*.key
+*.p12
+*.p8
+*.pfx
+*-firebase-adminsdk-*.json
